@@ -3,7 +3,7 @@
 
 ## Tutorials
 
-*[Tutorial](/compassTT/Tutorial)
+*[Tutorial](/compassTT/Tutorial) [start](https://makecode.microbit.org/#tutorial:github:rescobar9/compasstt/CompassTT)
 
 ## Edit this project ![Build status badge](https://github.com/rescobar9/compasstt/workflows/MakeCode/badge.svg)
 
