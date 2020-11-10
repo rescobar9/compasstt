@@ -26,7 +26,7 @@ basic.forever(function () {
 ```
 
 ## Step 4
-Select "Logic" on the left hand side menu and drag the "0 < 0" block an replace the "true" block.
+Select "Logic" on the left hand side menu and drag the "0 < 0" block and replace the "true" block.
 Repeat the same step for "else if".
 
 ```blocks
