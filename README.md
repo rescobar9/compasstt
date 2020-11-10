@@ -3,7 +3,7 @@
 
 ## Tutorials
 
-*[Tutorial](Tutorial)
+*[Tutorial](/Tutorial)
 
 ## Edit this project ![Build status badge](https://github.com/rescobar9/compasstt/workflows/MakeCode/badge.svg)
 
