@@ -1,5 +1,5 @@
 
-> Open this page at [https://rescobar9.github.io/compasstt/](https://rescobar9.github.io/compasstt/)
+> Open this page at [https://github.com/rescobar9/compasstt/edit/master/README.md](https://github.com/rescobar9/compasstt/edit/master/README.md)
 
 ## Tutorials
 
