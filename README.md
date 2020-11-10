@@ -1,14 +1,9 @@
 
 > Open this page at [https://rescobar9.github.io/compasstt/](https://rescobar9.github.io/compasstt/)
 
-## Use as Extension
+## Tutorials
 
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/rescobar9/compasstt** and import
+*[Tutorial](Tutorial)
 
 ## Edit this project ![Build status badge](https://github.com/rescobar9/compasstt/workflows/MakeCode/badge.svg)
 
