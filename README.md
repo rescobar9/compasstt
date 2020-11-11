@@ -1,9 +1,9 @@
 
-> Open this page at [https://github.com/rescobar9/compasstt/edit/master/README.md](https://github.com/rescobar9/compasstt/edit/master/README.md)
+> Open this page at [https://github.com/rescobar9/compasstt](https://github.com/rescobar9/compasstt)
 
-## Tutorials
+## Tutorial
 
-*[Tutorial](/compasstt/CompassTT)    [start](https://makecode.microbit.org/#tutorial:github:rescobar9/compasstt/CompassTT)
+* [Start](https://makecode.microbit.org/#tutorial:github:rescobar9/compasstt/CompassTT)
 
 ## Edit this project ![Build status badge](https://github.com/rescobar9/compasstt/workflows/MakeCode/badge.svg)
 
